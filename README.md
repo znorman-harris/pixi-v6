@@ -6,7 +6,7 @@
 
 2. Start the server with `npm start`
 
-3. Navigate to localhost:4200
+3. Navigate to `localhost:4200`
 
 4. Open dev tools, see the error
 
@@ -34,7 +34,7 @@ If you downgrade to v5, the application works without a problem. To do this:
 
 1. Stop the server
 
-2. Run `npm i pixi.js@^v5.3
+2. Run `npm i pixi.js@^v5.3`
 
 3. Remove the following from the `tsconfig.json`:
 
@@ -46,6 +46,6 @@ If you downgrade to v5, the application works without a problem. To do this:
 
 5. Start the app with `npm start`
 
-6. Navigate to localhost:4200 and you should see the following:
+6. Navigate to `localhost:4200` and you should see the following:
 
 ![](./img/working-v5.png)
