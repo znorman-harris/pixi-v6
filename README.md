@@ -1,6 +1,6 @@
 # PixiV6
 
-## Usage
+## pixi.js v6
 
 1. Install deps with `npm i`
 
